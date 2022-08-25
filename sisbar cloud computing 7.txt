@@ -1,0 +1,35 @@
+cloud computing
+
+install docker
+
+run wsl: wsl.exe
+
+catatan:
+- docker-compose up --build
+
+- docker run -d -p 80:80 --name my-apache-php-app -v "$PWD":/var/www/html php:8.0-apache
+
+- 
+
+
+docker command run:
+untuk nge build service baru
+docker-compose up --build 
+
+untukstop service
+docker-compose down
+
+start service docker
+docker-compose up -d
+
+
+
+
+
+
+
+
+
+
+
+

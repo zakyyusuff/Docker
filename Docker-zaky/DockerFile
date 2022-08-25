@@ -1,0 +1,3 @@
+FROM php:8.0-apache
+# WORKDIR /home/zaky/tugas_prog/pak rolly/sisbar/Docker-zaky
+WORKDIR /var/www/html

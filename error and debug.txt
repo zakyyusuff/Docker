@@ -1,0 +1,6 @@
+tugas:
+
+buat solving syntax error sebanyak 25
+		name
+bikin try accept dari error 
+
